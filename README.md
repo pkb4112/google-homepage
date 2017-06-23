@@ -1,2 +1,2 @@
 # google-homepage
-For Odin Project
+For Odin Project to learn HTML and CSS.
